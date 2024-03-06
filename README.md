@@ -1,3 +1,3 @@
-# ceub-prtograma-o-web
+# ceub-programação-web
 
 ## repositório da disciplina de programação web do ceub
